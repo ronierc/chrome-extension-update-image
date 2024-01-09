@@ -1,6 +1,6 @@
 {
     "name": "Update Image",
-    "desctiption": "Alterar todas as imagens do Navegador",
+    "description": "Alterar todas as imagens do Navegador",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": ["activeTab", "scripting"],
